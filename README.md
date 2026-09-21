@@ -605,7 +605,6 @@ Possible future enhancements include:
 
 ## Suraj Kadam
 
-**B.E. Electronics & Telecommunication Engineering**
 
 ### Skills
 
